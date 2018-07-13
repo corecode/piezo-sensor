@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kicad-libs)(type KiCad)(uri ${KIPRJMOD}/kicad-libs)(options "")(descr ""))
+  (lib (name project)(type KiCad)(uri /home/corecode/devel/electronics/piezo-sensor)(options "")(descr ""))
+)
